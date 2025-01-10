@@ -5,7 +5,7 @@ Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kulla
 ## 🚀 Kullanıdığım Diller
 <div class="row">
   <div class="col-md-3">
-    <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" width="50" height="100" />
+    <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" width="50" height="50" />
   </div>
 
   <div class="col-md-3">
