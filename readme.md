@@ -1,6 +1,6 @@
 # Merhaba! 👋
 
-Ben [Adınız], bir yazılım geliştiricisiyim. İşte uzmanlık alanlarım ve kullandığım teknolojiler:
+2018'den beri yazılım dünyasında Full Stack Developer olarak çalışıyorum. .NET Core ile güçlü backend çözümleri üretirken, React ve Next.js ile modern web uygulamaları geliştiriyorum. Mobil tarafta Flutter ve React Native deneyimimle projelere değer katıyorum. Teknolojiyi yakından takip ederek, her geçen gün kendimi geliştirme tutkusu taşıyorum. Yenilikçi çözümler ve kullanıcı odaklı projelerle fark yaratmaya devam ediyorum.
 
 ## 🚀 Bildiğim Diller ve Araçlar
 | Dil | Logo |
