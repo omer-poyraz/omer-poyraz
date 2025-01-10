@@ -32,63 +32,13 @@ Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kulla
 ## 💼 Çalıştığım İşler ve Geliştirmeler
 
 <div align="center">
-  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
     <img src="https://www.btk.gov.tr/static/img/logo-mini.svg" width="100" height="100" />
-  </div>
-
-  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
-    <a href="https://evize.test.liberyus.com/" target="_blank">
       <img src="https://www.mfa.gov.tr/site_media/assets/img/logo.svg" width="100" height="100" />
-      <p><strong>E-Vize</strong></p>
-    </a>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
-    <a href="https://alkim.test.liberyus.com" target="_blank">
       <img src="https://alkim.test.liberyus.com/logo.png" width="100" height="100" />
-      <p><strong>Alkim</strong></p>
-    </a>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
-    <a href="https://mapa.group/" target="_blank">
       <img src="https://mapa.group/static/media/logotype.de7c4d04d41e44b61c5a2076d0a8f81d.svg" width="100" height="100" />
-      <p><strong>Mapa</strong></p>
-    </a>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
-    <a href="https://rivo.com.tr/" target="_blank">
       <img src="https://rivo.com.tr/Site/Library/images/logo.png" width="100" height="100" />
-      <p><strong>Rivo</strong></p>
-    </a>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
-    <a href="https://www.simitcidunyasi.com.tr/" target="_blank">
       <img src="https://www.simitcidunyasi.com.tr/Site/Library/images/logo.png" width="100" height="100" />
-      <p><strong>Simit Dünyası</strong></p>
-    </a>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
-    <a href="https://www.yaprakdonercisi.com/" target="_blank">
       <img src="https://www.yaprakdonercisi.com/Site/Library/images/logo.png" width="100" height="100" />
-      <p><strong>Yaprak Dönercisi</strong></p>
-    </a>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
-    <a href="https://www.kitapanadolu.com/" target="_blank">
       <img src="https://www.kitapanadolu.com/Site/Library/images/logo.svg" width="100" height="100" />
-      <p><strong>Kitap Anadolu</strong></p>
-    </a>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
-    <a href="https://www.timboocafe.com/" target="_blank">
       <img src="https://www.timboocafe.com/Site/Library/images/logo-b.png" width="100" height="100" />
-      <p><strong>Timboo Cafe</strong></p>
-    </a>
-  </div>
 </div>
