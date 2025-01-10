@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-# Merhaba! 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=21&pause=1000&color=F7AE22&center=true&vCenter=true&width=435&lines=%F0%9F%8C%99+I'm+Ömer+POYRAZ+%F0%9F%9A%80+Full+Stack+Developer" alt="Typing SVG"/>
+  </a>
+</div>
 
 Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kullandığım teknolojiler:
 
