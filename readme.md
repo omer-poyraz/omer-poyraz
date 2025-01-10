@@ -28,3 +28,56 @@ Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kulla
 - **Flutter ile Mobil Uygulama - BTK Akademi**
 - **C# Programlama - BTK Akademi**
 - **Asp.Net Core WEB API - BTK Akademi**
+
+## 💼 Çalıştığım İşler ve Geliştirmeler
+
+<div align="center">
+  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
+    <a href="https://btk.gov.tr/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Btk_logo.svg" width="100" height="100" />
+      <p><strong>BTK</strong></p>
+    </a>
+  </div>
+
+  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
+    <a href="https://dtvgroup.com.tr/" target="_blank">
+      <img src="https://dtvgroup.com.tr/assets/images/logo.png" width="100" height="100" />
+      <p><strong>E-Vize</strong></p>
+    </a>
+  </div>
+
+  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
+    <a href="https://mapa.group/" target="_blank">
+      <img src="https://mapa.group/images/logo.png" width="100" height="100" />
+      <p><strong>Mapa</strong></p>
+    </a>
+  </div>
+
+  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
+    <a href="https://rivo.com.tr/" target="_blank">
+      <img src="https://rivo.com.tr/images/logo.png" width="100" height="100" />
+      <p><strong>Rivo</strong></p>
+    </a>
+  </div>
+
+  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
+    <a href="https://www.simitcidunyasi.com.tr/" target="_blank">
+      <img src="https://www.simitcidunyasi.com.tr/img/logo.png" width="100" height="100" />
+      <p><strong>Simit Dünyası</strong></p>
+    </a>
+  </div>
+
+  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
+    <a href="https://www.kitapanadolu.com/" target="_blank">
+      <img src="https://www.kitapanadolu.com/assets/images/logo.png" width="100" height="100" />
+      <p><strong>Kitap Anadolu</strong></p>
+    </a>
+  </div>
+
+  <div style="display: inline-block; margin: 10px; border: 2px solid #ddd; padding: 10px; border-radius: 10px; width: 200px; text-align: center;">
+    <a href="https://www.timboocafe.com/" target="_blank">
+      <img src="https://www.timboocafe.com/wp-content/uploads/2020/06/timboo-logo.png" width="100" height="100" />
+      <p><strong>Timboo Cafe</strong></p>
+    </a>
+  </div>
+</div>
