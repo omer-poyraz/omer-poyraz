@@ -25,7 +25,6 @@ Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kulla
 </div>
 
 ## 📜 Sertifikalar
-- **Flutter ile Mobil Uygulama**
-- **C# Programlama**
-- **Asp.Net Core WEB API**
-</div>
+- **Flutter ile Mobil Uygulama - BTK Akademi**
+- **C# Programlama - BTK Akademi**
+- **Asp.Net Core WEB API - BTK Akademi**
