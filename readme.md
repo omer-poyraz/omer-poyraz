@@ -1,13 +1,22 @@
 # Merhaba! 👋
 
-2018'den beri yazılım dünyasında Full Stack Developer olarak çalışıyorum. .NET Core ile güçlü backend çözümleri üretirken, React ve Next.js ile modern web uygulamaları geliştiriyorum. Mobil tarafta Flutter ve React Native deneyimimle projelere değer katıyorum. Teknolojiyi yakından takip ederek, her geçen gün kendimi geliştirme tutkusu taşıyorum. Yenilikçi çözümler ve kullanıcı odaklı projelerle fark yaratmaya devam ediyorum.
+Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kullandığım teknolojiler:
 
-## 🚀 Bildiğim Diller ve Araçlar
-| Dil | Logo |
-|-----|------|
-| **Python** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **C#** | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) |
+## 🚀 Kullanıdığım Diller
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="50" height="50" />
+    <p><strong>Python</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" width="50" height="50" />
+    <p><strong>JavaScript</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" width="50" height="50" />
+    <p><strong>C#</strong></p>
+  </div>
+</div>
 
 ## 🛠️ Araçlar
 - Visual Studio Code
