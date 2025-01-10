@@ -58,6 +58,4 @@ Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kulla
   <img src="https://github-readme-stats.vercel.app/api?username=omer-poyraz&theme=jolly" alt=""/>
   <br/><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-poyraz&theme=jolly" alt=""/>
-  <br/>
-   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=omer-poyraz&theme=black_ice&hide_border=true&stroke=0000&background=0D1117">
 </div>
