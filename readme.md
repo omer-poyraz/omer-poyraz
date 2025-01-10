@@ -8,9 +8,7 @@
   </a>
 </div>
 
-Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kullandığım teknolojiler:
-
-## 🚀 Kullanıdığım Diller
+## 🚀 Languages I Use
 <div align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" width="60" height="50" />
   <img src="https://img.shields.io/badge/-NET%20Core-512BD4?logo=.net&logoColor=white" width="100" height="50" />
@@ -21,7 +19,7 @@ Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kulla
   <img src="https://img.shields.io/badge/-Cordova-8E4A8B?logo=apache-cordova&logoColor=white" width="100" height="50" />
 </div>
 
-## 🛠️ Versiyon Kontrolleri
+## 🛠️ Version Control
 
 <div align="center">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" width="100" height="50" />
@@ -32,12 +30,12 @@ Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kulla
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" width="100" height="50" />
 </div>
 
-## 📜 Sertifikalar
-- **Flutter ile Mobil Uygulama - BTK Akademi**
-- **C# Programlama - BTK Akademi**
+## 📜 Certificates
+- **Mobile Application with Flutter - BTK Akademi**
+- **C# Programing - BTK Akademi**
 - **Asp.Net Core WEB API - BTK Akademi**
 
-## 💼 Çalıştığım İşler ve Geliştirmeler
+## 💼 Projects and Developments I Have Worked On
 
 <div align="center">
     <img src="https://www.btk.gov.tr/static/img/logo-mini.svg" width="100" height="100" />
@@ -53,7 +51,7 @@ Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kulla
 
 ## 💡 Most Used Language
 
-<div  align="center">
+<div align="center">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=omer-poyraz&theme=jolly" alt=""/>
   <br/><br/><br/>
