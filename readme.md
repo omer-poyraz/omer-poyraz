@@ -35,7 +35,7 @@ Ben Ömer POYRAZ, Full Stack Developer'ım. İşte uzmanlık alanlarım ve kulla
     <img src="https://www.btk.gov.tr/static/img/logo-mini.svg" width="100" height="100" />
       <img src="https://www.mfa.gov.tr/site_media/assets/img/logo.svg" width="100" height="100" />
       <img src="https://alkim.test.liberyus.com/logo.png" width="100" height="100" />
-      <img src="https://mapa.group/static/media/logotype.de7c4d04d41e44b61c5a2076d0a8f81d.svg" width="100" height="100" />
+      <img src="https://mapa.group/logo192.png" width="100" height="100" />
       <img src="https://rivo.com.tr/Site/Library/images/logo.png" width="100" height="100" />
       <img src="https://www.simitcidunyasi.com.tr/Site/Library/images/logo.png" width="100" height="100" />
       <img src="https://www.yaprakdonercisi.com/Site/Library/images/logo.png" width="100" height="100" />
